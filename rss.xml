@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Rogue Ensemble]]></title>
+        <description><![CDATA[The Rogue Ensemble]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 23:02:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Rogue Ensemble]]></title>
+            <description><![CDATA[<article><h1>The Rogue Ensemble</h1><p>The Rogue Ensemble is a syndicate of artists from across the globe who are determined to break free from the shackles of performance traditions.  We engage culturally curious listeners in intimate venues by taking them on a musical odyssey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f60c9a02e66ed6a9d2f02e3309c2d157fee74bce.jpg"></article>]]></description>
+            <link>undefinedthe-rogue-ensemble/index.html</link>
+            <guid isPermaLink="false">11e667ff-7f84-4361-9f83-ee7092d59815</guid>
+            <pubDate>Wed, 13 Apr 2016 23:02:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
